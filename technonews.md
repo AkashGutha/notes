@@ -49,7 +49,6 @@ things that you thing would have made sense:
 
 2. FlipBoard :
 
-
 when on-line:
 
 - Nice login page with a moving background and color theme and a big tag line.
