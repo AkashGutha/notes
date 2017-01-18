@@ -11,4 +11,13 @@ Dont's:
 
 - Click on a topic or tick the topic in the topics/sources hub.
 - Tab only naviagtion. main focus should be the curated list.
-- 
+- Save offline feature and they should be easily accesible from anywhere.
+
+
+
+Tabs :
+
+1. feed
+2. topics
+3. offline
+4. profile
