@@ -10,8 +10,8 @@ Dont's:
  Do's :
 
 - Click on a topic or tick the topic in the topics/sources hub.
-- Tab only naviagtion. main focus should be the curated list.
-- Save offline feature and they should be easily accesible from anywhere.
+- Tab only navigation. main focus should be the curated list.
+- Save offline feature and they should be easily accessible from anywhere.
 
 
 
