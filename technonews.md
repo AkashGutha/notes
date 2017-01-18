@@ -1,6 +1,6 @@
 # This is a raw requirement of the techno news app for android
 
-TechnoNews - Stay ahead
+Techno News - Stay ahead
 
 **what is your apps use?**
 
