@@ -74,3 +74,25 @@ when off-line:
 things that would have made sense:
 - better UI, instead of multi tabbed structure near category section, though the feel was good.
 
+3. News Republic :
+
+- login page started with an animation pushing the logo aside and brining in a language selector. while there was a parallax graphic of indian cityline.
+- choosing english
+- VEry clean UI rather than the others.
+- The images when not loaded have the logo in a destaturated version.
+- It has a bottom tabbed navigation
+
+- The top part contains a large news brief from the day. that takes you to a landing page woth all the briefed articles/news.
+- Then single articles list with ads integrated into the list.
+- A horizontal scroll list from a single website.
+- A topics tab , a videos tab , a profile tab.
+- Topics tab has all the topics to chosse from and search to get the topic related news.
+- Videos have only videos 
+- My profile we can login and save articles for offilne or further reads.
+- Settings page has some nifty features like Downlaod offline news, download only on wifi, Night mode,
+
+- read breaking news on the lockscreen.
+- Lockscreen provider has all the needed features like Time, if there any notifications then notifications and ads are also integrated into the UI.
+- moving to the last right loads new articles.
+- you can quickly open the article there itself and read it.
+
