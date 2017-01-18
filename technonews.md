@@ -51,3 +51,5 @@ things that you thing would have made sense:
 
 - Nice login page with a moving background and color theme and a big tag line.
 
+3. News republic :
+
