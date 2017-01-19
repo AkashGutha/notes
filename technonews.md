@@ -1,6 +1,6 @@
 # This is a raw requirement of the techno news app for android
 
-TechnoNews - Stay ahead
+Techno News - Stay ahead
 
 **what is your apps use?**
 
@@ -20,7 +20,7 @@ TechnoNews - Stay ahead
 
 1. InShorts : 
 
-when online:
+when on-line:
 
 - make the user get used to up swipes in the starting page.
 - minimal ui with three screens and major focus on a single page.
@@ -37,7 +37,7 @@ when online:
 - no login to spare the user from hazel of setting up an account
 - remembers position of the article when closed or minimized
 
-when offline:
+when off-line:
 
 - no major change in ui , no bad indication. on refreshing  shows a small popup saying "unable to fetch latest stories"
 - going to the in-app browser shows a nice little page saying "No internet connection", has a button to go back.
@@ -49,7 +49,51 @@ things that you thing would have made sense:
 
 2. FlipBoard :
 
+when on-line:
+
 - Nice login page with a moving background and color theme and a big tag line.
+- Sign-in and get started page takes you to the sign-in landing page
+- Pick topic/s to follow , shows a nice progress bar UI to indicate you've selected sufficient amount of topics.
+- after finishing shows a loading ui for building the flipboard.
+- first page has a large image that has the special article/ more famous article. and two small paragraphs to show other famous articles. they have drop downs to let you upvote / downvote a post, which will finetune your later experience
+- A single flipboard has an image. a top bar showing from which **category** it is. share and like options.
+- we can add it to a magazine. (Read later and other stuff.)
+- Flipboard lets you comment on an article.
+- Ads integration is done in one filpbaord. dedicated to a ad. category is shown as promoted.
+- The layout changes by the amount of matter and especially with the image size.
+- Ability to block the site from which the post is taken completely.
+- Once an article is loaded completely into the full view, the article is loaded as a flipbaoord again woth nice text and ui. shows page number and which category at bottom.
+- At the end shows more articles from the same category.
+- all topics are placed in a tab to review and edit.
+- connecting social accounts and a profile page that has all your magazines.
+
+when off-line:
+- loading an article takes you to a blank page and says "No network".
+
+things that would have made sense:
+- better UI, instead of multi tabbed structure near category section, though the feel was good.
+
+3. News Republic :
+
+- login page started with an animation pushing the logo aside and brining in a language selector. while there was a parallax graphic of indian cityline.
+- choosing english
+- VEry clean UI rather than the others.
+- The images when not loaded have the logo in a destaturated version.
+- It has a bottom tabbed navigation
+
+- The top part contains a large news brief from the day. that takes you to a landing page woth all the briefed articles/news.
+- Then single articles list with ads integrated into the list.
+- A horizontal scroll list from a single website.
+- A topics tab , a videos tab , a profile tab.
+- Topics tab has all the topics to chosse from and search to get the topic related news.
+- Videos have only videos 
+- My profile we can login and save articles for offilne or further reads.
+- Settings page has some nifty features like Downlaod offline news, download only on wifi, Night mode,
+
+- read breaking news on the lockscreen.
+- Lockscreen provider has all the needed features like Time, if there any notifications then notifications and ads are also integrated into the UI.
+- moving to the last right loads new articles.
+- you can quickly open the article there itself and read it.
 
 3. News republic :
 
