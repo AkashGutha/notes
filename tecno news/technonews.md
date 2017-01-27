@@ -95,3 +95,5 @@ things that would have made sense:
 - moving to the last right loads new articles.
 - you can quickly open the article there itself and read it.
 
+3. News republic :
+
